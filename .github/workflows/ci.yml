@@ -7,6 +7,8 @@ jobs:
       - name: Checkout Code
         uses: actions/checkout@v4
       - name: Execute System Info Script
-        run: ./system-info.sh
+        run: |
+          chmod +x ./system-info.sh
+          ./system-info.sh
       - name: Success Notification
         run: echo "Week 3 CI Successful"
