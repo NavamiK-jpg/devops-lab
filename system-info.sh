@@ -1,4 +1,3 @@
-
 #!/bin/bash
 echo "=== System Information ==="
 echo "OS Details:"
@@ -12,4 +11,3 @@ free -m
 echo ""
 echo "Disk Usage:"
 df -h
-

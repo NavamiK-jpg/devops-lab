@@ -1,4 +1,3 @@
-cat << 'EOF' > .github/workflows/ci.yml
 name: Week 3 CI Pipeline
 on: [push]
 jobs:
@@ -11,4 +10,3 @@ jobs:
         run: ./system-info.sh
       - name: Success Notification
         run: echo "Week 3 CI Successful"
-EOF
