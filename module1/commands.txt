@@ -1,0 +1,39 @@
+pwd - Shows current directory
+
+1s - Lists files and directories
+
+cd - Changes directory
+
+mkdir - Creates a directory
+
+rmdir - Removes an empty directory
+
+touch - Creates a file
+
+cp Copies files
+
+mv - Moves or renames files
+
+rm - Removes files
+
+cat - Displays file contents
+
+nano - Opens text editor
+
+clear - Clears terminal screen
+
+whatis - one-line description of a command directly from its manual
+
+date - Shows current date and time
+
+free -m - command shows your available memory
+
+help - command that is built directly into the Bash shell
+
+df -h command shows your available disk space
+
+find - Finds files and directories
+
+history - Shows command history
+
+man - Displays command manuals
